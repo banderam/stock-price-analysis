@@ -2,7 +2,7 @@
 title: "Stock Price Analysis"
 author: "Mauro Bandera"
 date: "2/1/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
